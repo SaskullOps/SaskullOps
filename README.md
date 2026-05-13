@@ -1,4 +1,4 @@
-![Banner](01 _ Terminal session.png)
+![Banner](banner.png)
 
 ## Hey there, I'm Alex 👋
 
