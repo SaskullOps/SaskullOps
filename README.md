@@ -1,16 +1,28 @@
-## Hi there 👋
+![Banner](banner.png)
 
-<!--
-**SaskullOps/SaskullOps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hey there, I'm Alex 👋
 
-Here are some ideas to get you started:
+I'm a cybersecurity learner and automation engineer transitioning from the Microsoft ecosystem (Power Platform, M365) into infosec. I document my journey through CTFs, labs, and technical experiments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔐 What I'm working on
+
+- 🎯 Completing TryHackMe rooms and publishing detailed write-ups
+- 📚 Building practical skills in offensive security and SOC operations
+- 🛠️ Automating security workflows with Python and PowerShell
+- 📝 Blogging at [saskullops.github.io](https://saskullops.github.io)
+
+### 🧰 Tech stack
+
+**Security**: Metasploit • Burp Suite • Wireshark • Nmap • John the Ripper  
+**Cloud & Automation**: Azure • Power Platform • Power Automate • M365  
+**Languages**: Python • PowerShell • Bash • JavaScript
+
+### 📫 Find me online
+
+- 💼 [LinkedIn](https://linkedin.com/in/àlex-guardiola-martínez-67a5a8133)
+- 📖 [Blog](https://saskullops.github.io)
+- 📧 a.guardiola.m@gmail.com
+
+---
+
+*Currently learning: penetration testing methodologies, SOC operations, and threat hunting*
