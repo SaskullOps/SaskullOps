@@ -1,4 +1,4 @@
-![Banner](01_Terminal session.png)
+![Banner](01 _ Terminal session.png)
 
 ## Hey there, I'm Alex 👋
 
