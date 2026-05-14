@@ -1,4 +1,4 @@
-![Banner](banner.png)
+![Banner](https://raw.githubusercontent.com/SaskullOps/SaskullOps/main/banner.svg)
 
 ## Hey there, I'm Alex 👋
 
