@@ -8,14 +8,14 @@ I'm a cybersecurity learner and automation engineer. I document my journey throu
 
 - 🎯 Completing TryHackMe rooms and publishing detailed write-ups
 - 📚 Building practical skills in offensive security and SOC operations
-- 🛠️ Automating security workflows with AI
+- 🛠️ Automating workflows with AI
 - 📝 Blogging at [saskullops.github.io](https://saskullops.github.io)
 
 ### 🧰 Tech stack
 
 **Security**: Metasploit • Burp Suite • Wireshark • Nmap • John the Ripper  
-**Cloud & Automation**: Azure • Power Platform • Power Automate • M365  
-**Languages**: Python • PowerShell • Bash • JavaScript
+**Cloud & Automation**: Azure • Power Platform • Power Automate • M365 • n8n • Claude Code • Hermes • Home lab
+**Languages**: Python • PowerShell • Bash 
 
 ### 📫 Find me online
 
