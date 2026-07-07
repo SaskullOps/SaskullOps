@@ -19,7 +19,7 @@ I'm a cybersecurity learner and automation engineer. I document my journey throu
 
 ### 📫 Find me online
 
-- 💼 [LinkedIn](www.linkedin.com/in/SaskullOps)
+- 💼 [LinkedIn](www.linkedin.com/in/saskullops)
 - 📖 [Blog](https://saskullops.github.io)
 - 📧 a.guardiola.m@gmail.com
 
