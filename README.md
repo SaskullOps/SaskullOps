@@ -2,13 +2,13 @@
 
 ## Hey there, I'm Alex 👋
 
-I'm a cybersecurity learner and automation engineer transitioning from the Microsoft ecosystem (Power Platform, M365) into infosec. I document my journey through CTFs, labs, and technical experiments.
+I'm a cybersecurity learner and automation engineer. I document my journey through, labs, and technical experiments.
 
 ### 🔐 What I'm working on
 
 - 🎯 Completing TryHackMe rooms and publishing detailed write-ups
 - 📚 Building practical skills in offensive security and SOC operations
-- 🛠️ Automating security workflows with Python and PowerShell
+- 🛠️ Automating security workflows with AI
 - 📝 Blogging at [saskullops.github.io](https://saskullops.github.io)
 
 ### 🧰 Tech stack
@@ -23,6 +23,10 @@ I'm a cybersecurity learner and automation engineer transitioning from the Micro
 - 📖 [Blog](https://saskullops.github.io)
 - 📧 a.guardiola.m@gmail.com
 
+### See my personal project
+
+**Digital fleet inspection**
+- [qrf](https://qrfleet.com/es)
+  
 ---
 
-*Currently learning: penetration testing methodologies, SOC operations, and threat hunting*
