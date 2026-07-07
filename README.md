@@ -26,7 +26,7 @@ I'm a cybersecurity learner and automation engineer. I document my journey throu
 ### See my personal project
 
 **Digital fleet inspection**
-- [qrf](https://qrfleet.com/es)
+- [QRFleet](https://qrfleet.com/es)
   
 ---
 
