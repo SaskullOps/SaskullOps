@@ -2,31 +2,26 @@
 
 ## Hey there, I'm Alex 👋
 
-I'm a cybersecurity learner and automation engineer. I document my journey through, labs, and technical experiments.
+Automation engineer working across Microsoft Power Platform, n8n, and AI — with cybersecurity as an active hobby (home SOC, CTFs).
 
-### 🔐 What I'm working on
+### 🛠️ What I'm building
 
-- 🎯 Completing TryHackMe rooms and publishing detailed write-ups
-- 📚 Building practical skills in offensive security and SOC operations
-- 🛠️ Automating workflows with AI
-- 📝 Blogging at [saskullops.github.io](https://saskullops.github.io)
+- Automating workflows with Power Platform, n8n, and AI
+- A home SOC and TryHackMe rooms, for fun
+- Blogging at [saskullops.github.io](https://saskullops.github.io)
 
 ### 🧰 Tech stack
 
-**Security**: Metasploit • Burp Suite • Wireshark • Nmap • John the Ripper  
-**Cloud & Automation**: Azure • Power Platform • Power Automate • M365 • n8n • Claude Code • Hermes • Home lab
-**Languages**: Python • PowerShell • Bash 
+**Automation**: Power Platform • Power Automate • n8n • Azure • M365
+**Security**: Metasploit • Burp Suite • Wireshark • Nmap
+**Languages**: Python • PowerShell • Bash
 
-### 📫 Find me online
+### 📫 Find me
 
-- 💼 [LinkedIn](www.linkedin.com/in/saskullops)
+- 💼 [LinkedIn](https://www.linkedin.com/in/saskullops)
 - 📖 [Blog](https://saskullops.github.io)
 - 📧 a.guardiola.m@gmail.com
 
-### See my personal project
+### Featured project
 
-**Digital fleet inspection**
-- [QRFleet](https://qrfleet.com/es)
-  
----
-
+[QRFleet](https://qrfleet.com/es) — digital fleet inspection, built for a logistics company.
