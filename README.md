@@ -4,6 +4,8 @@
 
 I work in IT, coming from logistics operations. This is my learning notebook: I build in public the things I want to understand better, across **automation, homelab, security and AI**.
 
+Right now I'm studying **AI engineering** and applying it in these projects as I go.
+
 ### What I'm building
 
 - **QRFleet**: a fleet damage reporting app, built end to end for a logistics company and running in production. [qrfleet.com](https://qrfleet.com/es)
