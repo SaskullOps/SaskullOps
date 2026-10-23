@@ -11,6 +11,7 @@ Right now I'm studying **AI engineering** and applying it in these projects as I
 - **QRFleet**: a fleet damage reporting app, built end to end for a logistics company and running in production. [qrfleet.com](https://qrfleet.com/es)
 - **A homelab that runs itself**: a Raspberry Pi with Docker, VPN-only access, backups, alerts and GitOps updates.
 - **A home SOC** with Wazuh and CrowdSec, plus CTF rooms to keep the offensive side in view.
+- **[homelab-ai-assistant](https://github.com/SaskullOps/homelab-ai-assistant)**: ask my homelab questions from an Apple Watch. A Siri Shortcut talks to n8n and any OpenAI-compatible model; the voice path is read-only and anything that changes something needs a tap on Telegram.
 - **AI agents and automations** with n8n, Hermes, LiteLLM and Langfuse, testing where AI helps and where a script is enough.
 
 ### Stack
